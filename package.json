@@ -1,0 +1,17 @@
+{
+  "name": "porthole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-rebuild": "^1.4.0"
+  },
+  "dependencies": {
+    "serialport": "^4.0.7"
+  }
+}

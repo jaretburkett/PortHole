@@ -1,0 +1,25 @@
+.navbar-inverse {
+    background-color: #1f7cb3;
+    border-color: #1f7cb3;
+    height: 61px;
+}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+.navbar-brand {
+    padding: 30px 15px 10px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #737373;
+    color: #fff;
+}
+.navbar-brand small{
+    color:#eee;
+    font-size:12px;
+}
